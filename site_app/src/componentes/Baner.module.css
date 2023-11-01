@@ -1,0 +1,45 @@
+.baneer{
+    width: 100%;
+    height: 500px;
+}
+
+.verdinha{
+    width: 100%;
+    height: 80px;
+}
+
+.Lado{
+    display: flex;
+}
+
+.h2{
+    text-align: center;
+    color: darkgray;
+    font-size: 30px;
+}
+
+
+.prod{
+    height: 400px;
+    width: 200px;
+    padding-left: 150px;
+}
+
+p{
+    color: red;
+}
+
+.oleozin{
+    padding-right: 10px;
+    height: 200px;
+    width: 250px;
+}
+
+.ban{
+    width: 100%;
+    height: 500px;
+}
+
+.linha{
+    text-decoration: none;
+}

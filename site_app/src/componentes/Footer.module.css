@@ -1,0 +1,54 @@
+.news{
+    width: auto;
+    height: 90px;
+    padding-left: 100px;
+    display: flex;
+    background-color: rgb(189, 193, 197);
+    
+}
+
+.tnew{
+    height: 90px;
+    width: auto;
+    color: dimgray;
+}
+.tnew, h2{
+    margin: 0;
+}
+
+.neews{
+    padding-top: 20px;
+    padding-left: 60px;
+    height: 70px;
+    width: 75%;
+    margin-bottom: 20px;
+}
+
+.email{
+    height: 50px;
+    width: 600px;
+    border-radius: 30px;
+}
+
+.enviar{
+    background-color: green;
+    height: 60px;
+    width: 170px;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+
+.textf{
+    background-color: rgb(189, 193, 197);
+    display: flex;
+    padding-left: 200px;
+}
+
+li{
+    list-style: none;
+}
+
+.trod{
+    margin-top: 20px;
+    margin-left: 40px;
+}

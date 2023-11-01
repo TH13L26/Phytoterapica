@@ -1,0 +1,11 @@
+.banerr{
+    width: 100%;
+    height: 250px;
+}
+
+.caixa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
